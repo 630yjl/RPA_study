@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome 거래상위 종목  네이버페이 증권",
+  "Type": "Screen",
+  "Id": "xVmYWH3GqEqzYjKtCEIiYw",
+  "Reference": "7OhcVFkBI0GzWNmCIVIuHw/xVmYWH3GqEqzYjKtCEIiYw",
+  "ParentRef": "7OhcVFkBI0GzWNmCIVIuHw/0SrNU5IlKkWhlXGpv2ffDA",
+  "Created": "2025-04-03T01:54:37.918256Z",
+  "Updated": "2025-04-03T01:54:37.918256Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

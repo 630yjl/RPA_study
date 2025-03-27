@@ -1,0 +1,358 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "01_이론/01_2_변수유형.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "objVar&Sequence_1",
+        "arrSub&Sequence_1",
+        "intIndex&Sequence_1",
+        "arrNum&Sequence_1",
+        "myScore&Sequence_1",
+        "strName&Sequence_1",
+        "intAge&Sequence_1",
+        "dateToday&Sequence_1",
+        "dateNow&Sequence_1",
+        "strNum&Sequence_1",
+        "blEven&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "01_이론/00_HelloWorld.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "01_이론/01_1_변수생성.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strName&Sequence_1",
+        "strHello&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "01_이론/02_브라우저자동화_모던.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strTemp&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "02_미션/02_브라우저자동화반복문_모던.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strTemp&Sequence_1",
+        "arrCity&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "01_이론/02_브라우저자동화_클래식.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "brNaver&Sequence_2",
+        "strTemp&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "02_미션/02_브라우저자동화반복문_클래식.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strTemp&Sequence_1",
+        "arrCity&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "03_ACME/01_ACME_Login.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "blLogOut&Sequence_1",
+        "sstrPassword&Sequence_1",
+        "strID&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "03_ACME/02_ACME_메뉴진입.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "01_이론/03_DT추출1_네이버뉴스.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dtNewstitle&Sequence_1",
+        "dtTemp&Sequence_1",
+        "dtNews&Sequence_1",
+        "ExtractDataTable&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "02_미션/03_DT추출1_네이버뉴스들.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "ExtractDataTable&Sequence_1",
+        "arrSearch&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "01_이론/03_DT추출2_네이버코스피.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "outputData&Sequence_1",
+        "ExtractDataTable&Sequence_1",
+        "EditTable&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "02_미션/03_DT추출1_네이버뉴스들2.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "arrSearch&Sequence_1",
+        "ExtractDataTable&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "02_미션/03_DT추출2_네이버코스닥.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "index&Sequence_1",
+        "intPrice&Sequence_15",
+        "EditTable&Sequence_1",
+        "ExtractDataTable&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "02_미션/03_DT추출3_KBO.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "타자&Sequence_1",
+        "투수&Sequence_1",
+        "buttons&Sequence_1",
+        "index&Sequence_1",
+        "button&Sequence_1",
+        "filteredDT&Sequence_1",
+        "btn&Sequence_1",
+        "ExtractDataTable&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "03_ACME/01_ACME_Login2.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strID&Sequence_1",
+        "sstrPassword&Sequence_1",
+        "uiLogout&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "02_미션/test.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "Count&Sequence_1",
+        "ExtractDataTable&Sequence_1",
+        "dtAll&Sequence_1",
+        "addColumnDT&Sequence_1",
+        "adAll&Sequence_1",
+        "addColumn&Sequence_1",
+        "filteredData&Sequence_1",
+        "filteredDT&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "03_ACME/03_ACME_DT추출.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "filteredData&Sequence_1",
+        "addColumn&Sequence_1",
+        "addColumnDT&Sequence_1",
+        "dtAll&Sequence_1",
+        "count&Sequence_1",
+        "ExtractDataTable&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "03_ACME/03_ACME_DT추출2.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strPage&Sequence_1",
+        "intIndex&Sequence_1",
+        "arrCols&Sequence_34",
+        "dtFiltered&Sequence_1",
+        "ExtractDataTable&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "01_이론/04_데이터가공1_기초_문자열.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "ex6answer&Sequence_1",
+        "ex5answer&Sequence_1",
+        "ex4answer&Sequence_1",
+        "ex3answer&Sequence_1",
+        "ex2answer&Sequence_1",
+        "strOrigin&Sequence_1",
+        "ex1answer&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "02_미션/04_문자열가공_미션1.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strPasswordBefore&Sequence_2",
+        "strPassword&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "02_미션/04_문자열가공_미션2.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strDate&Sequence_1",
+        "strAfter&Sequence_4",
+        "strBefore&Sequence_4",
+        "strVar4&Sequence_1",
+        "strVar3&Sequence_1",
+        "strVar2&Sequence_1",
+        "strVar1&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "01_이론/04_데이터가공2_심화.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strAfter&Sequence_5",
+        "strBefore&Sequence_5",
+        "ReversedArrSubject&Sequence_2",
+        "lstNum&Sequence_1",
+        "arrTemp&Sequence_2",
+        "arrSubject&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "02_미션/04_문자열가공_미션3_네이버쇼핑.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "FilteredDT&Sequence_1",
+        "ExtractDataTable&Sequence_1",
+        "arrSearch&Sequence_1",
+        "strSearch&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "02_미션/05_DT가공_국립공원.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "sortedDT&Sequence_1",
+        "dt국립공원&Sequence_1",
+        "dt탐방코스&Sequence_1",
+        "dtJoinResult&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "03_ACME/04_ACME_세부정보추출.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "ClientCountry&Sequence_1",
+        "strInfo&Sequence_1",
+        "listInfo&Sequence_1",
+        "ClienId&Sequence_1",
+        "ClientName&Sequence_7",
+        "ExtractDataTable&Sequence_1",
+        "ClientId&Sequence_1",
+        "originDT&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}

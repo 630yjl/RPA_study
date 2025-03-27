@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="evRj6jdZf0-QeF5eQTvNeQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/work-items" CVScreenId="ed003f15-a556-43b8-b2cc-34461e7039ab" CvElementArea="126, 46, 765, 34" CvType="InputBox" DesignTimeRectangle="165, 51, 622, 24" DesignTimeScaleFactor="1" ElementType="InputBox" FullSelectorArgument="&lt;ctrl name='ACME System 1 - Work Items - Chrome' role='pane' /&gt;&lt;ctrl name='주소창 및 검색창' role='editable text' /&gt;" FuzzySelectorArgument="&lt;ctrl name='ACME System 1 - Work Items - Chrome' role='pane' /&gt;&lt;ctrl name='주소창 및 검색창' role='editable text' automationid='' /&gt;" Guid="c75d6d35-14e9-47e6-b369-18542c7668a0" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='ACME System 1 - Work Items - Chrome' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="447df95571150dcef74e24e445aea1f9.png" xmlns="">0BVNfZUY9VEyiCg6C6G4QIw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

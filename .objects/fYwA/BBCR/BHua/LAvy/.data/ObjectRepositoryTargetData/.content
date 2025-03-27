@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="8RUwYN89K0CQI204vcZHDw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/login" DesignTimeRectangle="1871, 432, 173, 125" DesignTimeScaleFactor="2.5" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Log In' parentid='bs-example-navbar-collapse-1' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Log In' parentid='bs-example-navbar-collapse-1' tag='A' type='' class='' check:innerText='Log In' /&gt;" Guid="d69033a6-aa6b-44a2-a275-d554059e4724" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Log In' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="153f4b36107c5d4551e72af0d85aba60.png" xmlns="">0XNFz_G9tvUSvF53kKrznuw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

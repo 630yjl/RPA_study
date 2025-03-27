@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="evsXEKZx5Uelo4rJcAwLyw" Reference="7OhcVFkBI0GzWNmCIVIuHw/uI7sc-jj90K09JG0vAyfYQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/work-items/105584252" DesignTimeRectangle="134, 505, 938, 60" DesignTimeScaleFactor="1" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='P' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='P' type='' class='' aaname='                              XY37806                              Eloy Sandoz                              France                         ' /&gt;" Guid="50516f61-7769-4cae-87ca-fc2c2f57d6ca" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Work Items' /&gt;" SearchSteps="Selector, FuzzySelector, TextNative" Version="V4" Visibility="Visible">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
+          <Target DesignTimeRectangle="104, 410, 998, 41" ElementType="Text" FullSelectorArgument="&lt;webctrl class='panel-heading' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl class='panel-heading' tag='DIV' type='' aaname='Calculate Client Security Hash' check:innerText='Calculate Client Security Hash' /&gt;" Guid="0d89b767-8de6-4102-9489-a785c74065ae" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="fcc53bf30ab413864197d0360c63f826.png" xmlns="">02AT_SoeKA0-uIrdOVTZ4jg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

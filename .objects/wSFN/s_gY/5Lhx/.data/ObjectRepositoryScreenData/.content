@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="ns-H0nd8Kk6ltDcs8jKxKA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="1385, -1030, 1076, 883" BrowserType="Chrome" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAJOgAACToAYJjBRwAAAIRSURBVDhPhVNNSFRRGD2WBBL9LUrImbnvvSaCSBApcCHUpkXQIkxzoeS8784IBSqK0B/RpoURQdSilrUIokXbIoyiRXuhhViQ0aIfooJEI8Px3Hu/mTeF0QeH795zz/ned38e1gwztBXGThGziOwCjLznuEdX/xO5k20Uz9FYrcPIL+YlxUMkpd2qrkcTCraMglxGJI/qxn/jG/KyX70Mk57VhdFMJM9QSC1MuQuFUifi8tGwLXnn142dR268BUgGd5D8SXKReYJ5iZ0MaOkQUXrRn4exF7h2nPlc2JZU4InwxTckr3A8ynybedp3gGoTDSm5GRQHNpN/y/ET5iEWvuWqn9ACr4Ph0jqgb73vwsh3JGm354y9QfSQO636V4gr7dy/3CWxQrD1U9u06RCRjHH9E3aV8ojtYc6/8iO9oYA7B7nJAvZzRqRH1Boitq0qnPBzf6DsLCvw0RV4Xici+9QLa5GXnUForyrj9OMN+qprs/IHEfM91MLI+cCXh/28dXAjC8xner5Q4GAzJ9NKfiFeIpF9XDxDLHvDHtnEg2xmwfuqCzD2ui+MXG8LiWs0/GBeIH4TKzS8QM4W/dN128vM7tA/oJhuDwVqYewhFpkkRmg+Fq7SPuB4ucHM/0Hu8QoPqKshkuEtFLtHUhP/BbclKWFv3wZ1rBV8NJHtp/Axv+6ueJFwr+8Or7FDRRrAKnRW51vue1ZQAAAAAElFTkSuQmCC" Selector="&lt;html app='chrome.exe' title='주루 | 선수 기록 | 기록실 | 기록/순위 | KBO' /&gt;" Title="주루 | 선수 기록 | 기록실 | 기록/순위 | KBO" Url="https://www.koreabaseball.com/Record/Player/Runner/Basic.aspx" Version="V1">
+      <imageRef attrName="InformativeScreenshot" originalValue="f0491b8704519dc82e984ca84216462d.jpg" xmlns="">0cPPUR6s5zkSxizSn9VZEWA</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

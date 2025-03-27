@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="wFF5NfbOJ0-vcJT9FGGJNA" Reference="7OhcVFkBI0GzWNmCIVIuHw/TVdA4ukTV0aVgGVbIdrdQg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/work-items/105584252" DesignTimeRectangle="54, 450, 938, 60" DesignTimeScaleFactor="1" ElementType="Text" FullSelectorArgument="&lt;webctrl tag='P' idx='1' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='P' visibleinnertext='Client ID: XY37806&amp;#xA;Client Name: Eloy Sandoz&amp;#xA;Client Country: France&amp;#xA;' type='' class='' aaname='                              XY37806                              Eloy Sandoz                              France                         ' /&gt;" Guid="0f6c993a-f026-41b9-9d92-c8971c91777b" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Work Items' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="febf49ef1ff6fe4cea0b9cb3049f1ffb.png" xmlns="">0CXJXD8OgxEi3EedmaerrlA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetAttributeGeneric</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

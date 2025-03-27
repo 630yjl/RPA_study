@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="DFo7RiIJ5ECTp2zJS42ftQ" Reference="7OhcVFkBI0GzWNmCIVIuHw/rTsRF8PnbEaXjElIbcgYMA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="koreabaseball.com/Record/Player/PitcherBasic/BasicOld.aspx" DesignTimeRectangle="263, 510, 57, 34" DesignTimeScaleFactor="1" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='*' parentid='contents' tag='A' /&gt;" FuzzySelectorArgument="[currentText]" Guid="7beb060e-b97b-4be1-8632-32ac8482349e" ScopeSelectorArgument="&lt;html app='chrome.exe' title='투수 | 선수 기록 | 기록실 | 기록/순위 | KBO' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="0fa4798e22322f1708bc71704464f2a9.png" xmlns="">0B7Beaujt-0abt7-drmIUDw</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData Name="currentText" />
+    </scg:List>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "캐나다 브리티시컬럼비아 밴쿠버",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "hbfD3bIFZ0ynPsQVHeiaOw",
+  "Reference": "7OhcVFkBI0GzWNmCIVIuHw/hbfD3bIFZ0ynPsQVHeiaOw",
+  "ParentRef": "7OhcVFkBI0GzWNmCIVIuHw/5WdksHWoAk6Kei0f9KGmYA",
+  "Created": "2025-03-31T04:11:26.0884792Z",
+  "Updated": "2025-03-31T04:11:26.0884792Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

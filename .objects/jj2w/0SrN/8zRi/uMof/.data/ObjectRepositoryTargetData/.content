@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="M1XNtQ2Z80qRKb36eZJg_w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="search.naver.com/search.naver" DesignTimeRectangle="136, 738, 411, 29" DesignTimeScaleFactor="0.800000011920929" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='동부여성발전센터, &amp;apos;RPA(로봇자동언어) 개발자 양성과정&amp;apos; 개설 ' class='news_tit' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='동부여성발전센터, &amp;apos;RPA(로봇자동언어) 개발자 양성과정&amp;apos; 개설 ' class='news_tit' tag='A' type='' check:innerText='동부여성발전센터, &amp;apos;RPA(로봇자동언어) 개발자 양성과정&amp;apos; 개설' /&gt;" Guid="202eab8d-8d4d-4389-bc28-cd01f4a06334" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiPath : 네이버 뉴스검색' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="d1988122db5fe7ba5686b8b2d614fe1b.png" xmlns="">0y0j7f8tp_UGd8XfZrR0e1w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">MouseScrollSearchedElement</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

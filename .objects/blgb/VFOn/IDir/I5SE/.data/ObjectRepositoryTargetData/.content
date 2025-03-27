@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="UDRDjdKDfkCvAbWNF2SC-g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="search.shopping.naver.com/home" DesignTimeRectangle="704, 561, 919, 100" DesignTimeScaleFactor="2.5" ElementType="InputBox" FullSelectorArgument="&lt;webctrl parentid='gnb-gnb' tag='INPUT' type='text' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='gnb-gnb' tag='INPUT' type='text' class='_searchInput_search_text_83jy9 _searchInput_placeholder_AG5yA _nlog_click' placeholder='상품명 또는 브랜드 입력' aaname='검색어 입력' /&gt;" Guid="b15a7cc2-ceb3-4a4a-af35-9c2e8ff091e4" ScopeSelectorArgument="&lt;html app='chrome.exe' title='네이버 가격비교' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="1820, 581, 60, 60" ElementType="Icon" FullSelectorArgument="&lt;webctrl idx='2' parentname='search' tag='svg' /&gt;" FuzzySelectorArgument="&lt;webctrl type='' parentname='search' tag='svg' class='_searchInput_icon_ZyJou' aaname='' /&gt;" Guid="f15a345f-0c78-402b-ac18-81ffbaeacb9e" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="44f9e08beac6b204d692eae588c0044b.png" xmlns="">0wFnZQ3JnfUekv6W9poaSVQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

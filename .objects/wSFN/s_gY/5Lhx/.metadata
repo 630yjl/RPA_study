@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome 주루  선수 기록  기록실  기록순위  KBO",
+  "Type": "Screen",
+  "Id": "5LhxXCY7oEiQ6_nXuJNjOg",
+  "Reference": "7OhcVFkBI0GzWNmCIVIuHw/5LhxXCY7oEiQ6_nXuJNjOg",
+  "ParentRef": "7OhcVFkBI0GzWNmCIVIuHw/s_gYE54CWkSueBdQEbA2gw",
+  "Created": "2025-04-04T12:25:00.047437Z",
+  "Updated": "2025-04-04T12:25:00.047437Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

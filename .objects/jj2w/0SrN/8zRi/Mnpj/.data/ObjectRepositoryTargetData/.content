@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="qT_C0KkESkmjwXsTQUX-bw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="search.naver.com/search.naver" DesignTimeRectangle="182, 288, 42, 29" DesignTimeScaleFactor="0.800000011920929" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='뉴스' aria-role='tab' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='뉴스' aria-role='tab' tag='A' type='' class='tab' check:innerText='뉴스' /&gt;" Guid="26788b59-576e-4793-97ee-28213dd9eab0" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Uipath : 네이버 검색' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="122, 243, 20, 17" FullSelectorArgument="&lt;webctrl tag='I' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='I' type='' class='spnew2 ico_logo' aaname='NAVER' check:innerText='NAVER' /&gt;" Guid="7b040a54-5a37-4123-9f35-cabac3c801ce" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="25bbe478d5876ba0373b3867905898db.png" xmlns="">0KeqQ73DBlkGs9S2tJD7YKg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

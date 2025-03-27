@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="qfyB6uX_5UqVd_Ry35RZ3A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="koreabaseball.com/Record/Player/HitterBasic/Basic1.aspx" DesignTimeRectangle="813, 1273, 143, 84" DesignTimeScaleFactor="2.5" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='투수' parentid='contents' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='투수' parentid='contents' tag='A' type='' class='' check:innerText='투수' /&gt;" Guid="b7e51fab-44b4-47dc-8207-286a1d13c8d4" ScopeSelectorArgument="&lt;html app='chrome.exe' title='타자 | 선수 기록 | 기록실 | 기록/순위 | KBO' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="55566067d35f84673269e462dec8c9ba.png" xmlns="">0J3DM7I5Q5UWDHVswkDIj0w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

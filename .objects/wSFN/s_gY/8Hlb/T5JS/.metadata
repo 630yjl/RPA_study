@@ -1,0 +1,14 @@
+﻿{
+  "Name": "투수기록",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "T5JSh444O0q55mwuq2Mhbg",
+  "Reference": "7OhcVFkBI0GzWNmCIVIuHw/T5JSh444O0q55mwuq2Mhbg",
+  "ParentRef": "7OhcVFkBI0GzWNmCIVIuHw/8HlbZGqUTk-0eMv9OJL5lA",
+  "Created": "2025-04-04T11:27:31.4151779Z",
+  "Updated": "2025-04-04T11:27:31.4151779Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

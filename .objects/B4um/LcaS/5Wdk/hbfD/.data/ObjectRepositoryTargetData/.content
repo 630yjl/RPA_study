@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Ldqm7f9a2ECyBnKdkg_wqw" Reference="7OhcVFkBI0GzWNmCIVIuHw/hbfD3bIFZ0ynPsQVHeiaOw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.co.kr/search" DesignTimeRectangle="261, 1128, 67, 134" DesignTimeScaleFactor="2.5" ElementType="Text" FullSelectorArgument="&lt;webctrl id='wob_tm' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl id='wob_tm' tag='SPAN' type='' class='wob_t q8U8x' /&gt;" Guid="78c5f676-3745-46c7-877d-46617b293185" ScopeSelectorArgument="&lt;html app='chrome.exe' title='밴쿠버 날씨 - Google 검색' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="255, 1005, 175, 39" ElementType="Text" FullSelectorArgument="&lt;webctrl class='BBwThe' parentid='oFNiHe' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl class='BBwThe' parentid='oFNiHe' tag='SPAN' type='' aaname='캐나다 브리티시컬럼비아 밴쿠버' check:innerText='캐나다 브리티시컬럼비아 밴쿠버' /&gt;" Guid="e850f346-139c-42de-a0c5-92d9d53106ed" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <TargetAnchorable.PointOffset>
+        <PointOffset X="3" Y="-1" />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="e63bf73c009fb1832b9e9a8107e439cc.png" xmlns="">00CGy40R8tEmfy0AXENMFuw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "주루",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "vLomz7f-fk2ZsxvwCbpk-Q",
+  "Reference": "7OhcVFkBI0GzWNmCIVIuHw/vLomz7f-fk2ZsxvwCbpk-Q",
+  "ParentRef": "7OhcVFkBI0GzWNmCIVIuHw/qgbBQJlGd0ia2zReyECONQ",
+  "Created": "2025-04-04T03:55:27.2415678Z",
+  "Updated": "2025-04-04T03:55:27.2415678Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "수비",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "x1G5W8b63kOi2GV7ctC6hw",
+  "Reference": "7OhcVFkBI0GzWNmCIVIuHw/x1G5W8b63kOi2GV7ctC6hw",
+  "ParentRef": "7OhcVFkBI0GzWNmCIVIuHw/qgbBQJlGd0ia2zReyECONQ",
+  "Created": "2025-04-04T03:54:53.0512556Z",
+  "Updated": "2025-04-04T03:54:53.0512556Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

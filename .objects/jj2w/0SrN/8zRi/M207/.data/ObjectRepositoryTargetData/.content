@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="C_RobX-DqESoqlpd00AbHg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="search.naver.com/search.naver" DesignTimeRectangle="1144, 738, 104, 41" DesignTimeScaleFactor="2" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='최신순' aria-role='option' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='최신순' aria-role='option' tag='A' type='' class='item' check:innerText='최신순' /&gt;" Guid="56ba0015-d0ad-4fd4-83a7-c172d6f0b796" ScopeSelectorArgument="&lt;html app='chrome.exe' title='rpa : 네이버 뉴스검색' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="979, 738, 133, 41" ElementType="Text" FullSelectorArgument="&lt;webctrl aria-role='option' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl aria-role='option' tag='A' type='' class='item' aaname='관련도순' check:innerText='관련도순' /&gt;" Guid="1fcee708-762d-4900-b1f7-069689dcbdca" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="43c19ac71006013330fbbded1cc2b951.png" xmlns="">0Kp_ax-GNy0yrpGFzFm--wA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

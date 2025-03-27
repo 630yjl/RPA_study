@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="F5BEyg7MY02NhnnvX9CifQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="search.naver.com/search.naver" DesignTimeRectangle="668, 1279, 265, 123" DesignTimeScaleFactor="2" ElementType="Text" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;section&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;strong' tag='STRONG' /&gt;" FuzzySelectorArgument="&lt;webctrl type='' tag='STRONG' class='' /&gt;" Guid="4733c140-971b-49c3-b934-5f9685b6fda4" ScopeSelectorArgument="&lt;html app='chrome.exe' title='서울의 날씨 : 네이버 검색' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="112, 911, 177, 48" ElementType="Text" FullSelectorArgument="&lt;webctrl class='title' tag='H2' /&gt;" FuzzySelectorArgument="&lt;webctrl class='title' tag='H2' type='' aaname='서울특별시' check:innerText='서울특별시' /&gt;" Guid="c4fe082f-36ba-4005-b672-53e8c3bce208" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="e8d12827fc2db22b9510e19ae71123c3.png" xmlns="">0HYvxf80iH0yGUqduMHGO-w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

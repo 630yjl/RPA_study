@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="77FAGENVXki3Hsb1DL3ulw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="search.shopping.naver.com/search/all" DesignTimeRectangle="1862, 883, 83, 70" DesignTimeScaleFactor="2.5" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='다음' parentid='content' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='다음' parentid='content' tag='A' type='' class='pagination_next__kh_cw _nlog_click _nlog_impression_element' check:innerText='다음' /&gt;" Guid="b313fe53-915d-4f6b-9a89-63da002437c1" ScopeSelectorArgument="&lt;html app='chrome.exe' title='모니터 : 네이버 가격비교' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="d2dc3ecc99347a33b6c877f23fbacb0a.png" xmlns="">0LjklO3XSX02AfFp3Xr2u6Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">MouseScrollSearchedElement</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

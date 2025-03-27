@@ -1,0 +1,14 @@
+﻿{
+  "Name": "KBO 정규시즌",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Id": "O_-3LQo0JE2cY4J8RQkXaw",
+  "Reference": "7OhcVFkBI0GzWNmCIVIuHw/O_-3LQo0JE2cY4J8RQkXaw",
+  "ParentRef": "7OhcVFkBI0GzWNmCIVIuHw/8HlbZGqUTk-0eMv9OJL5lA",
+  "Created": "2025-04-07T04:53:50.461114Z",
+  "Updated": "2025-04-07T04:53:50.461114Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

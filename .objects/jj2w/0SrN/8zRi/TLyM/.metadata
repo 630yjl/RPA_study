@@ -1,0 +1,14 @@
+﻿{
+  "Name": "서울특별시",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "TLyMq2Z5UkW1-BxMZ44YQQ",
+  "Reference": "7OhcVFkBI0GzWNmCIVIuHw/TLyMq2Z5UkW1-BxMZ44YQQ",
+  "ParentRef": "7OhcVFkBI0GzWNmCIVIuHw/8zRi6AFIE0G2vPnELCw50g",
+  "Created": "2025-03-31T03:51:02.8629644Z",
+  "Updated": "2025-03-31T03:51:02.8629644Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

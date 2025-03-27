@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Email",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "NJTTB50lb0G0oR2uFGeAcA",
+  "Reference": "7OhcVFkBI0GzWNmCIVIuHw/NJTTB50lb0G0oR2uFGeAcA",
+  "ParentRef": "7OhcVFkBI0GzWNmCIVIuHw/LADeruF1j0SrjhYJ--QV2A",
+  "Created": "2025-04-03T00:53:22.2014561Z",
+  "Updated": "2025-04-03T00:53:22.2014561Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.11.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
